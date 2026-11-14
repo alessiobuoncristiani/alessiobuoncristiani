@@ -1,30 +1,38 @@
-# Ciao, sono Alessio Buoncristiani 
+# Ciao, sono Alessio Buoncristiani 👋
 
-Sono uno studente al terzo anno di Ingegneria Informatica presso l'Università di Pisa.
-Attualmente il mio obiettivo principale è superare gli ultimi esami che mi separano dalla laurea triennale. 
+Sono uno studente di **Ingegneria Informatica** presso l'Università di Pisa, prossimo al completamento della laurea triennale. Mi interessa progettare applicazioni concrete e complete: dal frontend al backend, dalla persistenza dei dati alle reti, fino ai progetti di machine learning.
 
-Questo profilo GitHub nasce come archivio personale per raccogliere, ordinare e mostrare i progetti pratici che ho sviluppato per superare i vari esami universitari.
+Questo profilo raccoglie i progetti universitari più rappresentativi del mio percorso e documenta le tecnologie che ho utilizzato per realizzarli.
 
-### 📚 Cosa ho studiato finora
-Durante questi tre anni ho affrontato sia basi teoriche che applicazioni pratiche. A livello di sviluppo, i miei esami mi hanno portato a gestire:
-*   **Sviluppo Web:** Progettazione di interfacce interattive, gestione del backend e interazione con i database.
-*   **Reti e Sistemi Operativi:** Programmazione di basso livello in ambiente Linux, gestione della concorrenza, socket e protocolli TCP/IP.
-*   **Ingegneria del Software & OOP:** Sviluppo di applicativi orientati agli oggetti, utilizzo di pattern architetturali e integrazione con API esterne.
+## Cosa so fare
 
-### 💻 Stack Tecnologico Base
-*   **Linguaggi:** C, Java, PHP, JavaScript, HTML5, CSS3, SQL
-*   **Framework e Librerie:** Spring Boot, JavaFX
-*   **Infrastruttura & Strumenti:** Linux, Git, MySQL, Socket TCP, WordPress
+- Sviluppare applicazioni web e desktop con architettura client-server.
+- Progettare e consumare API REST, lavorando con JSON e servizi esterni.
+- Modellare la persistenza dei dati con MySQL, JPA/Hibernate e PHP/MySQL.
+- Realizzare software Java orientato agli oggetti con JavaFX e Spring Boot.
+- Sviluppare applicazioni di rete in C su Linux, con socket TCP e multiplexing I/O.
+- Costruire pipeline di machine learning riproducibili, con valutazione dei modelli, test e containerizzazione.
 
-### 🚀 I miei Progetti Universitari
+## Tecnologie
 
-Qui sotto si trovano i repository dei progetti più corposi che ho realizzato:
+`Java` · `Python` · `C` · `PHP` · `JavaScript` · `HTML` · `CSS` · `SQL` · `Spring Boot` · `JavaFX` · `Flask` · `MySQL` · `Docker` · `Git` · `Linux`
 
-*   🏰 **Tower Defense:** Videogioco web strategico con architettura Client-Server (HTML/JS/PHP/MySQL). Include meccaniche in tempo reale, sistema di login, skill tree per i potenziamenti e classifica globale. Sviluppato interamente in "Vanilla" senza l'uso di framework. *(Progetto per Progettazione Web)*
-*   📋 **Sistema Kanban Distribuito:** Applicativo di rete client-server scritto in C per Linux. Gestisce la distribuzione di task aziendali tramite socket TCP, utilizzando un protocollo di framing custom, multiplexing I/O tramite `select()` e un sistema di tolleranza ai guasti (PING/PONG). *(Progetto per Reti Informatiche)*
-*   🍳 **PantryChef:** Applicazione full-stack (JavaFX + Spring Boot) per la gestione della dispensa domestica. L'app comunica con un'API REST esterna (Spoonacular) per suggerire ricette basate sugli ingredienti disponibili, gestendo i dati tramite un database MySQL integrato. *(Progetto per Programmazione Avanzata)*
-*   🎓 **Laureandosi:** Plugin in ambiente WordPress (sviluppato in PHP) per la generazione automatizzata in PDF dei prospetti di laurea. Interagisce con i sistemi di ateneo per estrarre e parsare le carriere degli studenti in formato JSON. *(Progetto per Ingegneria del Software)*
+## Progetti in evidenza
 
-### 📫 Contatti
-*   **Email:** alessio.buoncristiani.it@gmail.com
-*   **LinkedIn:** 
+| Progetto | Descrizione | Tecnologie |
+| --- | --- | --- |
+| [PantryChef](https://github.com/alessiobuoncristiani/Programmazione-avanzata-Progetto) | Applicazione desktop full-stack per gestire la dispensa, creare la lista della spesa e suggerire ricette tramite Spoonacular. Include client JavaFX, backend REST Spring Boot e MySQL. | JavaFX, Spring Boot, JPA, MySQL, REST |
+| [Sistema didattico per la stima del rischio di diabete](https://github.com/alessiobuoncristiani/Progetto-Laboratorio-di-Intelligenza-Artificiale-Applicata-) | Pipeline ML sul dataset PIMA: analisi dati, confronto e ottimizzazione di modelli, interpretabilità SHAP, test, API JSON, applicazione Flask e Docker. | Python, scikit-learn, Flask, Docker, Jupyter |
+| [Tower Defense Web Game](https://github.com/alessiobuoncristiani/Progettazione-Web---Progetto) | Videogioco strategico web con login, progressione, skill tree e classifica globale, realizzato senza framework. | HTML, CSS, JavaScript, PHP, MySQL |
+| [Kanban Distribuito](https://github.com/alessiobuoncristiani/Reti-Informatiche---Progetto) | Sistema client-server in C per Linux per la gestione concorrente di task, con protocollo TCP a framing custom e I/O multiplexing tramite `select()`. | C, Linux, TCP sockets |
+| [Laureandosi](https://github.com/alessiobuoncristiani/Laureandosi) | Plugin WordPress per automatizzare la generazione dei prospetti di laurea, con parsing di carriere JSON e generazione PDF. | PHP, WordPress, JavaScript, JSON |
+
+## Percorso
+
+Durante il corso di laurea ho lavorato su sviluppo web, programmazione a oggetti, database, reti, sistemi Linux, progettazione del software e intelligenza artificiale applicata. Nei repository trovi README, istruzioni di avvio, documentazione tecnica e test relativi ai singoli progetti.
+
+## Contatti
+
+- Email: [alessio.buoncristiani.it@gmail.com](mailto:alessio.buoncristiani.it@gmail.com)
+
+_LinkedIn sarà aggiunto non appena il profilo sarà completato._
