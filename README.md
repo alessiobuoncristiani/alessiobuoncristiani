@@ -35,4 +35,4 @@ Durante il corso di laurea ho lavorato su sviluppo web, programmazione a oggetti
 
 - Email: [alessio.buoncristiani.it@gmail.com](mailto:alessio.buoncristiani.it@gmail.com)
 
-_LinkedIn sarà aggiunto non appena il profilo sarà completato._
+- Linkedin: 
